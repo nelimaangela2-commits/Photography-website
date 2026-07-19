@@ -43,6 +43,7 @@ body{
     display: flex;
     align-items: center;
     gap: 20px;
+    margin-top: 30px;
 }
 
 .profile-pic{
@@ -59,22 +60,32 @@ h1{
     font-style: italic;
 }
 
+h2{
+    font-weight: bold;
+    color: #45063A;
+    font-size: 30px;
+}
 .biography{
     font-size: 30px;
-    margin-top: 70px;
+}
+
+.intro-paragraph{
+    font-size: 30px;
 }
 
 .portfolio-pics{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 20px;
+    gap: 20px;   
 }
 
 .picture{
     width: 300px;
     height: 300px;
     object-fit: cover;
+    border: 4px dotted #45063A;
+    border-radius: 4px;
 }
 footer{
     background-color: #160121;
