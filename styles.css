@@ -62,3 +62,16 @@ p{
     font-size: 30px;
     margin-top: 70px;
 }
+
+.portfolio-pics{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.picture{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
