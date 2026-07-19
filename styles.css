@@ -57,3 +57,8 @@ body{
 h1{
     color: #45063A;
 }
+
+p{
+    font-size: 30px;
+    margin-top: 70px;
+}
