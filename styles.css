@@ -56,9 +56,10 @@ body{
 
 h1{
     color: #45063A;
+    font-style: italic;
 }
 
-p{
+.biography{
     font-size: 30px;
     margin-top: 70px;
 }
@@ -74,4 +75,14 @@ p{
     width: 300px;
     height: 300px;
     object-fit: cover;
+}
+footer{
+    background-color: #160121;
+    padding: 50px;
+}
+
+.footer-text{
+    color: white;
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
