@@ -1,4 +1,4 @@
-#  Angela's Photography Portfolio
+#  Nelima's Photography Portfolio
 
 Welcome to my photography portfolio website! This project showcases my passion for photography through a clean, responsive website built using only **HTML** and **CSS**.
 
